@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-Industrial and Automation Engineering Student in the
+Industrial and Automation Engineering Student
 
 🔭 &nbsp;I'm currently working on **robotics engineering**  
 🌱 &nbsp;I'm currently learning **Rust integration in robotics**
