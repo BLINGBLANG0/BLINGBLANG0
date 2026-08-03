@@ -64,5 +64,5 @@ Industrial and Automation Engineering Student
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/BLINGBLANG0">BLINGBLANG0</a></i></p>
+
 
