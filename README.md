@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://github.com/BLINGBLANG0">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=d4d4d4&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Rawen" alt="Hello! I&#39;m Rawen" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=d4d4d4&fontSize=42&height=90&text=%24%20whoami%20%E2%86%92%20Rawen%20Khlifi" />
 </p>
 
 <p align="center">
