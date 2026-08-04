@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-Industrial and Automation Engineering Student
+Industrial and Automation Engineering Student at INSAT
 
 🔭 &nbsp;I'm currently working on **robotics engineering**  
 🌱 &nbsp;I'm currently learning **Rust integration in robotics**
