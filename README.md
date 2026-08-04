@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=d4d4d4&fontSize=42&height=90&text=%24%20whoami%20%E2%86%92%20Rawen%20Khlifi" />
-</p>
+<p align="center"> <a href="https://github.com/BLINGBLANG0"> <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=d4d4d4&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Rawen" alt="Hello! I&#39;m Rawen" /> </a> </p>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=00FF41&center=true&vCenter=true&width=650&lines=%24+konnichiwa:3;Rawen+Khlifi;Loading+models...;%24+status;Online" />
