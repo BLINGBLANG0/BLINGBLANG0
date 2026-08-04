@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=360&height=44&lines=Konnichiwa%20%3A3" alt="Typing headlines" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=00FF41&center=true&vCenter=true&width=650&lines=%24+whoami;Rawen+Khlifi;%24+python+assistant.py;Loading+models...;%24+status;Online" />
 </p>
 
 ### 🚀 About Me
