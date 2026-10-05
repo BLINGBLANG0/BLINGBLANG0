@@ -12,7 +12,7 @@
 
 Industrial and Automation Engineering Student at INSAT
 
-🔭 &nbsp;I'm currently working on **robotics engineering**  
+🔭 &nbsp;I'm currently working on **machine learning algorithms**  
 🌱 &nbsp;I'm currently learning **PCB design**
 
 ### 🛠️ Tech Stack
